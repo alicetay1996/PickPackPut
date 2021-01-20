@@ -1,4 +1,7 @@
+import { BoundDirectivePropertyAst } from '@angular/compiler';
 import { Component } from '@angular/core';
+import { Router } from "@angular/router";
+import { BodyComponent } from './body/body.component';
 
 @Component({
   selector: 'app-root',
@@ -7,4 +10,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'application';
+  constructor(){}
 }

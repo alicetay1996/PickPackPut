@@ -9,14 +9,17 @@
 
 #start-pick-card{
     height:250px;
-    width:260px;
-    margin-left:530px;
+    width:280px;
+    margin-left:550px;
     margin-top: 130px;
     border-radius: 5px 5px 5px 5px;
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
 
-#card-logo{
-
+#card-title{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+    margin-left: 110px;
+    margin-top: 38px;
 }
-

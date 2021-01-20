@@ -1,0 +1,15 @@
+
+
+.card{
+    width:300px;
+    height:280px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    bottom: 50%;
+    right: 50%;
+    text-align:center;
+    align-self: center;
+    box-shadow:0 0 10px gray;
+
+}
